@@ -1,0 +1,1 @@
+<div style='padding: 50px; margin: 50px; text-align: center;'><img width="900px"style="border: 1px solid #000000;" src="images/default-image.png"></div>
