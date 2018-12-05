@@ -4,7 +4,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
-    <title>NetGain IM Compliance Reporting Tool</title>
+    <title>IM Compliance Reporting Tool</title>
     <LINK href="css/mainNavigation.css" rel="stylesheet" type="text/css">
   </head>
     <body style="font-family: Tahoma, Verdana, Arial;">
